@@ -11,8 +11,13 @@ The program simulated the real-world tasks of a Cybersecurity Consulting team, f
 * **Technical Communication:** Delivered comprehensive documentation and presentations to communicate complex technical concepts effectively.
 
 ## 📁 Repository Structure
-* **[documentation](./business-requirements.md):**Technical reports and IAM requirement analyses.
+* **[business-requirement](./documentation/business-requirements.md):**Technical reports and IAM requirement analyses.
 * **[presentations](./access-framework.md):**Executive slide decks for business stakeholders.
 
 ## 🎓 Certificate of Completion
 [https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69ebfc087cbaec93cd9af8d8_1777853892309_completion_certificate.pdf]
+
+
+
+* **[Threat Analysis](./governance/threat-analysis.md):** Phishing identification frameworks and incident triage steps.
+* **[Training Strategy](./governance/training-strategy.md):** Targeted Role-Based security awareness implementation matrices.
