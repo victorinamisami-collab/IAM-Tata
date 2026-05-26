@@ -12,6 +12,7 @@
   to communicate complex technical concepts effectively.
 
 **Certificate:** https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69ebfc087cbaec93cd9af8d8_1777853892309_completion_certificate.pdf
+
 https://www.theforage.com/simulations/tata/cybersecurity-sbda/completed
 
 ### Skills Gained:
