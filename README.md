@@ -11,8 +11,9 @@ The program simulated the real-world tasks of a Cybersecurity Consulting team, f
 * **Technical Communication:** Delivered comprehensive documentation and presentations to communicate complex technical concepts effectively.
 
 ## 📁 Repository Structure
-* **[business-requirement](./documentation/business-requirements.md):**Technical reports and IAM requirement analyses.
-* **[access-framework](./documentation/access-framework.md):**Executive slide decks for business stakeholders.
+* **[business-requirement](./documentation/business-requirements.md):**IAM requirement analyse and governance framework design.
+* **[access-framework](./documentation/access-framework.md):**This shows a business blueprint for the engineering team to implement.
+
 
 ## 🎓 Certificate of Completion
 [https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69ebfc087cbaec93cd9af8d8_1777853892309_completion_certificate.pdf]
