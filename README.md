@@ -11,7 +11,10 @@ The program simulated the real-world tasks of a Cybersecurity Consulting team, f
 * **Technical Communication:** Delivered comprehensive documentation and presentations to communicate complex technical concepts effectively.
 
 ## 📁 Repository Structure
-* `/documentation`: Technical reports and IAM requirement analyses.
+* **[documentation](./governance/threat-analysis.md):** Technical reports and IAM requirement analyses.
+* **[Training Strategy](./governance/training-strategy.md):** Executive slide decks for business stakeholders.
+
+* **[documentation](./business-requirements.md):**Technical reports and IAM requirement analyses.
 * `/presentations`: Executive slide decks for business stakeholders.
 
 ## 🎓 Certificate of Completion
