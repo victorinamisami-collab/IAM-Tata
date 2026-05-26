@@ -1,4 +1,4 @@
-# Cybersecurity-portfolio
+# IAM-Tata
 ## Certifications
 
 **Tata Cybersecurity Security Analyst Job Simulation on Forage**
