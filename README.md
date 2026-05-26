@@ -1,21 +1,18 @@
-# IAM-Tata
-## Certifications
+# Tata Consultancy Services - Cybersecurity Analyst Job Simulation
 
-**Tata Cybersecurity Security Analyst Job Simulation on Forage**
-*May 4, 2026*
+## 📌 Project Overview
+This repository contains the solutions and deliverables completed during the **Tata Consultancy Services Cybersecurity Analyst Job Simulation** on Forage. 
 
-- Completed a job simulation involving identity and access management (IAM) for
-  Tata Consultancy Services, collaborating with a Cybersecurity Consulting team.
-- Acquired expertise in IAM principles, cybersecurity best practices, and
-  strategic alignment with business objectives.
-- Delivered comprehensive documentation and presentations, showcasing the ability
-  to communicate complex technical concepts effectively.
+The program simulated the real-world tasks of a Cybersecurity Consulting team, focusing heavily on Identity and Access Management (IAM).
 
-**Certificate:** https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69ebfc087cbaec93cd9af8d8_1777853892309_completion_certificate.pdf
+## 🎯 Skills Acquired
+* **Identity and Access Management (IAM):** Designed and implemented IAM principles and security policies.
+* **Cybersecurity Best Practices:** Aligned technical security controls with strategic business objectives.
+* **Technical Communication:** Delivered comprehensive documentation and presentations to communicate complex technical concepts effectively.
 
-https://www.theforage.com/simulations/tata/cybersecurity-sbda/completed
+## 📁 Repository Structure
+* `/documentation`: Technical reports and IAM requirement analyses.
+* `/presentations`: Executive slide decks for business stakeholders.
 
-### Skills Gained:
-  Communication, Critical Thinking, Identity Management, Identity Management Assessment, Identity Management Design, Problem Solving,
-  Process Analysis, Process Management, Project Planning, Solution Architecture, Strategy Evaluation
-
+## 🎓 Certificate of Completion
+[https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69ebfc087cbaec93cd9af8d8_1777853892309_completion_certificate.pdf]
